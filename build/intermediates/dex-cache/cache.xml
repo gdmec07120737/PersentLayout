@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Users\gitHub_online\PersentLayout\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\Users\gitHub_online\PersentLayout\app\build\intermediates\pre-dexed\debug\classes-aa957c8fb41ec3d6ab858dab70570a74528d4f01.jar" />
+    </item>
+    <item
+        jar="E:\Users\gitHub_online\PersentLayout\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\Users\gitHub_online\PersentLayout\app\build\intermediates\pre-dexed\debug\classes-835c4c9f34e1c923feb38948fdfb488d7323b05a.jar" />
+    </item>
+    <item
+        jar="E:\Users\new\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\Users\gitHub_online\PersentLayout\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-8d22c7ae55991f96b7fa7bef1bc350e2fbc96f8c.jar" />
+    </item>
+    <item
+        jar="E:\Users\gitHub_online\PersentLayout\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\Users\gitHub_online\PersentLayout\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-ac68e8434cd69f842ecb9878ed2e84d8aefd1c56.jar" />
+    </item>
+
+</items>
